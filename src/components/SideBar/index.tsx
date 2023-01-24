@@ -1,3 +1,5 @@
+import { Container } from './styles';
+
 export function SideBar() {
-  return <h1>SideBar</h1>
+  return <Container>SideBar</Container>
 }
